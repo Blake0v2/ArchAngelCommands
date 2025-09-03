@@ -87,7 +87,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #e4bf67, #10233e);
+    background: linear-gradient(-45deg, #cea332, #5e410a, #cea332);
     display: flex;
     height: 100vh;
 }
